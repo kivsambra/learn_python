@@ -9,7 +9,7 @@ year_of_birth=input('please enter your year of birth')
 print(f'person name: {name}')
 current_year=2023
 y=int(year_of_birth)
-print(current_year-y)
+print(f'Person age is {current_year-y}')
 
 
 
